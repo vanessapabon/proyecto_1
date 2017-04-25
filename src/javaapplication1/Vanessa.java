@@ -10,5 +10,10 @@ package javaapplication1;
  * @author sena
  */
 public class Vanessa {
+    public static void main (String [] args) {
+     System.out.println("ADIOS");
+     System.out.println("VERDE");
+     System.out.println("ROJO");
+    }
     
 }
